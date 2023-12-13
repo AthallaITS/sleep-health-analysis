@@ -10,4 +10,4 @@ Proyek ini bertujuan untuk menjelajahi dan menganalisis kesehatan tidur, terutam
 ### - Ryan Adya Purwanto (5027231046)
 ### - Maulana Ahmad Zahiri(5027231010)
 ---
-## Terimakasih kepada Bu. Hafara Firdausi [@mocatfrio] selaku dosen Statistika dan Probabilitas
+## Terimakasih kepada Bu. Hafara Firdausi @mocatfrio selaku dosen Statistika dan Probabilitas
