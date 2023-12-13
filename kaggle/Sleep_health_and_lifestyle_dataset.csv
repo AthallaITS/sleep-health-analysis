@@ -1,0 +1,375 @@
+Person ID,Gender,Age,Occupation,Sleep Duration,Quality of Sleep,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Heart Rate,Daily Steps,Sleep Disorder
+1,Laki-laki,27,Software Engineer,6.1,6,42,6,Overweight,126/83,77,4200,None
+2,Laki-laki,28,Dokter,6.2,6,60,8,Normal,125/80,75,10000,None
+3,Laki-laki,28,Dokter,6.2,6,60,8,Normal,125/80,75,10000,None
+4,Laki-laki,28,Sales,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea
+5,Laki-laki,28,Sales,5.9,4,30,8,Obese,140/90,85,3000,Sleep Apnea
+6,Laki-laki,28,Software Engineer,5.9,4,30,8,Obese,140/90,85,3000,Insomnia
+7,Laki-laki,29,Guru,6.3,6,40,7,Obese,140/90,82,3500,Insomnia
+8,Laki-laki,29,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+9,Laki-laki,29,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+10,Laki-laki,29,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+11,Laki-laki,29,Dokter,6.1,6,30,8,Normal,120/80,70,8000,None
+12,Laki-laki,29,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+13,Laki-laki,29,Dokter,6.1,6,30,8,Normal,120/80,70,8000,None
+14,Laki-laki,29,Dokter,6,6,30,8,Normal,120/80,70,8000,None
+15,Laki-laki,29,Dokter,6,6,30,8,Normal,120/80,70,8000,None
+16,Laki-laki,29,Dokter,6,6,30,8,Normal,120/80,70,8000,None
+17,Perempuan,29,Suster,6.5,5,40,7,Normal Weight,132/87,80,4000,Sleep Apnea
+18,Laki-laki,29,Dokter,6,6,30,8,Normal,120/80,70,8000,Sleep Apnea
+19,Perempuan,29,Suster,6.5,5,40,7,Normal Weight,132/87,80,4000,Insomnia
+20,Laki-laki,30,Dokter,7.6,7,75,6,Normal,120/80,70,8000,None
+21,Laki-laki,30,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+22,Laki-laki,30,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+23,Laki-laki,30,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+24,Laki-laki,30,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+25,Laki-laki,30,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+26,Laki-laki,30,Dokter,7.9,7,75,6,Normal,120/80,70,8000,None
+27,Laki-laki,30,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+28,Laki-laki,30,Dokter,7.9,7,75,6,Normal,120/80,70,8000,None
+29,Laki-laki,30,Dokter,7.9,7,75,6,Normal,120/80,70,8000,None
+30,Laki-laki,30,Dokter,7.9,7,75,6,Normal,120/80,70,8000,None
+31,Perempuan,30,Suster,6.4,5,35,7,Normal Weight,130/86,78,4100,Sleep Apnea
+32,Perempuan,30,Suster,6.4,5,35,7,Normal Weight,130/86,78,4100,Insomnia
+33,Perempuan,31,Suster,7.9,8,75,4,Normal Weight,117/76,69,6800,None
+34,Laki-laki,31,Dokter,6.1,6,30,8,Normal,125/80,72,5000,None
+35,Laki-laki,31,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+36,Laki-laki,31,Dokter,6.1,6,30,8,Normal,125/80,72,5000,None
+37,Laki-laki,31,Dokter,6.1,6,30,8,Normal,125/80,72,5000,None
+38,Laki-laki,31,Dokter,7.6,7,75,6,Normal,120/80,70,8000,None
+39,Laki-laki,31,Dokter,7.6,7,75,6,Normal,120/80,70,8000,None
+40,Laki-laki,31,Dokter,7.6,7,75,6,Normal,120/80,70,8000,None
+41,Laki-laki,31,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+42,Laki-laki,31,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+43,Laki-laki,31,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+44,Laki-laki,31,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+45,Laki-laki,31,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+46,Laki-laki,31,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+47,Laki-laki,31,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+48,Laki-laki,31,Dokter,7.8,7,75,6,Normal,120/80,70,8000,None
+49,Laki-laki,31,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+50,Laki-laki,31,Dokter,7.7,7,75,6,Normal,120/80,70,8000,Sleep Apnea
+51,Laki-laki,32,Insinyur,7.5,8,45,3,Normal,120/80,70,8000,None
+52,Laki-laki,32,Insinyur,7.5,8,45,3,Normal,120/80,70,8000,None
+53,Laki-laki,32,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+54,Laki-laki,32,Dokter,7.6,7,75,6,Normal,120/80,70,8000,None
+55,Laki-laki,32,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+56,Laki-laki,32,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+57,Laki-laki,32,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+58,Laki-laki,32,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+59,Laki-laki,32,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+60,Laki-laki,32,Dokter,7.7,7,75,6,Normal,120/80,70,8000,None
+61,Laki-laki,32,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+62,Laki-laki,32,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+63,Laki-laki,32,Dokter,6.2,6,30,8,Normal,125/80,72,5000,None
+64,Laki-laki,32,Dokter,6.2,6,30,8,Normal,125/80,72,5000,None
+65,Laki-laki,32,Dokter,6.2,6,30,8,Normal,125/80,72,5000,None
+66,Laki-laki,32,Dokter,6.2,6,30,8,Normal,125/80,72,5000,None
+67,Laki-laki,32,Akuntan,7.2,8,50,6,Normal Weight,118/76,68,7000,None
+68,Laki-laki,33,Dokter,6,6,30,8,Normal,125/80,72,5000,Insomnia
+69,Perempuan,33,Peneliti,6.2,6,50,6,Overweight,128/85,76,5500,None
+70,Perempuan,33,Peneliti,6.2,6,50,6,Overweight,128/85,76,5500,None
+71,Laki-laki,33,Dokter,6.1,6,30,8,Normal,125/80,72,5000,None
+72,Laki-laki,33,Dokter,6.1,6,30,8,Normal,125/80,72,5000,None
+73,Laki-laki,33,Dokter,6.1,6,30,8,Normal,125/80,72,5000,None
+74,Laki-laki,33,Dokter,6.1,6,30,8,Normal,125/80,72,5000,None
+75,Laki-laki,33,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+76,Laki-laki,33,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+77,Laki-laki,33,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+78,Laki-laki,33,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+79,Laki-laki,33,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+80,Laki-laki,33,Dokter,6,6,30,8,Normal,125/80,72,5000,None
+81,Perempuan,34,Peneliti,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea
+82,Perempuan,34,Peneliti,5.8,4,32,8,Overweight,131/86,81,5200,Sleep Apnea
+83,Laki-laki,35,Guru,6.7,7,40,5,Overweight,128/84,70,5600,None
+84,Laki-laki,35,Guru,6.7,7,40,5,Overweight,128/84,70,5600,None
+85,Laki-laki,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,None
+86,Perempuan,35,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+87,Laki-laki,35,Insinyur,7.2,8,60,4,Normal,125/80,65,5000,None
+88,Laki-laki,35,Insinyur,7.2,8,60,4,Normal,125/80,65,5000,None
+89,Laki-laki,35,Insinyur,7.3,8,60,4,Normal,125/80,65,5000,None
+90,Laki-laki,35,Insinyur,7.3,8,60,4,Normal,125/80,65,5000,None
+91,Laki-laki,35,Insinyur,7.3,8,60,4,Normal,125/80,65,5000,None
+92,Laki-laki,35,Insinyur,7.3,8,60,4,Normal,125/80,65,5000,None
+93,Laki-laki,35,Software Engineer,7.5,8,60,5,Normal Weight,120/80,70,8000,None
+94,Laki-laki,35,Pengacara,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea
+95,Perempuan,36,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,Insomnia
+96,Perempuan,36,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+97,Perempuan,36,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+98,Perempuan,36,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+99,Perempuan,36,Guru,7.1,8,60,4,Normal,115/75,68,7000,None
+100,Perempuan,36,Guru,7.1,8,60,4,Normal,115/75,68,7000,None
+101,Perempuan,36,Guru,7.2,8,60,4,Normal,115/75,68,7000,None
+102,Perempuan,36,Guru,7.2,8,60,4,Normal,115/75,68,7000,None
+103,Perempuan,36,Guru,7.2,8,60,4,Normal,115/75,68,7000,None
+104,Laki-laki,36,Guru,6.6,5,35,7,Overweight,129/84,74,4800,Sleep Apnea
+105,Perempuan,36,Guru,7.2,8,60,4,Normal,115/75,68,7000,Sleep Apnea
+106,Laki-laki,36,Guru,6.6,5,35,7,Overweight,129/84,74,4800,Insomnia
+107,Perempuan,37,Suster,6.1,6,42,6,Overweight,126/83,77,4200,None
+108,Laki-laki,37,Insinyur,7.8,8,70,4,Normal Weight,120/80,68,7000,None
+109,Laki-laki,37,Insinyur,7.8,8,70,4,Normal Weight,120/80,68,7000,None
+110,Laki-laki,37,Pengacara,7.4,8,60,5,Normal,130/85,68,8000,None
+111,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+112,Laki-laki,37,Pengacara,7.4,8,60,5,Normal,130/85,68,8000,None
+113,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+114,Laki-laki,37,Pengacara,7.4,8,60,5,Normal,130/85,68,8000,None
+115,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+116,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+117,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+118,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+119,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+120,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+121,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+122,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+123,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+124,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+125,Perempuan,37,Akuntan,7.2,8,60,4,Normal,115/75,68,7000,None
+126,Perempuan,37,Suster,7.5,8,60,4,Normal Weight,120/80,70,8000,None
+127,Laki-laki,38,Pengacara,7.3,8,60,5,Normal,130/85,68,8000,None
+128,Perempuan,38,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+129,Laki-laki,38,Pengacara,7.3,8,60,5,Normal,130/85,68,8000,None
+130,Laki-laki,38,Pengacara,7.3,8,60,5,Normal,130/85,68,8000,None
+131,Perempuan,38,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+132,Laki-laki,38,Pengacara,7.3,8,60,5,Normal,130/85,68,8000,None
+133,Laki-laki,38,Pengacara,7.3,8,60,5,Normal,130/85,68,8000,None
+134,Perempuan,38,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+135,Laki-laki,38,Pengacara,7.3,8,60,5,Normal,130/85,68,8000,None
+136,Laki-laki,38,Pengacara,7.3,8,60,5,Normal,130/85,68,8000,None
+137,Perempuan,38,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+138,Laki-laki,38,Pengacara,7.1,8,60,5,Normal,130/85,68,8000,None
+139,Perempuan,38,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+140,Laki-laki,38,Pengacara,7.1,8,60,5,Normal,130/85,68,8000,None
+141,Perempuan,38,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+142,Laki-laki,38,Pengacara,7.1,8,60,5,Normal,130/85,68,8000,None
+143,Perempuan,38,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+144,Perempuan,38,Akuntan,7.1,8,60,4,Normal,115/75,68,7000,None
+145,Laki-laki,38,Pengacara,7.1,8,60,5,Normal,130/85,68,8000,Sleep Apnea
+146,Perempuan,38,Pengacara,7.4,7,60,5,Obese,135/88,84,3300,Sleep Apnea
+147,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,Insomnia
+148,Laki-laki,39,Insinyur,6.5,5,40,7,Overweight,132/87,80,4000,Insomnia
+149,Perempuan,39,Pengacara,6.9,7,50,6,Normal Weight,128/85,75,5500,None
+150,Perempuan,39,Akuntan,8,9,80,3,Normal Weight,115/78,67,7500,None
+151,Perempuan,39,Akuntan,8,9,80,3,Normal Weight,115/78,67,7500,None
+152,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+153,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+154,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+155,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+156,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+157,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+158,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+159,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+160,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+161,Laki-laki,39,Pengacara,7.2,8,60,5,Normal,130/85,68,8000,None
+162,Perempuan,40,Akuntan,7.2,8,55,6,Normal Weight,119/77,73,7300,None
+163,Perempuan,40,Akuntan,7.2,8,55,6,Normal Weight,119/77,73,7300,None
+164,Laki-laki,40,Pengacara,7.9,8,90,5,Normal,130/85,68,8000,None
+165,Laki-laki,40,Pengacara,7.9,8,90,5,Normal,130/85,68,8000,None
+166,Laki-laki,41,Pengacara,7.6,8,90,5,Normal,130/85,70,8000,Insomnia
+167,Laki-laki,41,Insinyur,7.3,8,70,6,Normal Weight,121/79,72,6200,None
+168,Laki-laki,41,Pengacara,7.1,7,55,6,Overweight,125/82,72,6000,None
+169,Laki-laki,41,Pengacara,7.1,7,55,6,Overweight,125/82,72,6000,None
+170,Laki-laki,41,Pengacara,7.7,8,90,5,Normal,130/85,70,8000,None
+171,Laki-laki,41,Pengacara,7.7,8,90,5,Normal,130/85,70,8000,None
+172,Laki-laki,41,Pengacara,7.7,8,90,5,Normal,130/85,70,8000,None
+173,Laki-laki,41,Pengacara,7.7,8,90,5,Normal,130/85,70,8000,None
+174,Laki-laki,41,Pengacara,7.7,8,90,5,Normal,130/85,70,8000,None
+175,Laki-laki,41,Pengacara,7.6,8,90,5,Normal,130/85,70,8000,None
+176,Laki-laki,41,Pengacara,7.6,8,90,5,Normal,130/85,70,8000,None
+177,Laki-laki,41,Pengacara,7.6,8,90,5,Normal,130/85,70,8000,None
+178,Laki-laki,42,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+179,Laki-laki,42,Pengacara,7.8,8,90,5,Normal,130/85,70,8000,None
+180,Laki-laki,42,Pengacara,7.8,8,90,5,Normal,130/85,70,8000,None
+181,Laki-laki,42,Pengacara,7.8,8,90,5,Normal,130/85,70,8000,None
+182,Laki-laki,42,Pengacara,7.8,8,90,5,Normal,130/85,70,8000,None
+183,Laki-laki,42,Pengacara,7.8,8,90,5,Normal,130/85,70,8000,None
+184,Laki-laki,42,Pengacara,7.8,8,90,5,Normal,130/85,70,8000,None
+185,Perempuan,42,Guru,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea
+186,Perempuan,42,Guru,6.8,6,45,7,Overweight,130/85,78,5000,Sleep Apnea
+187,Perempuan,43,Guru,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia
+188,Laki-laki,43,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+189,Perempuan,43,Guru,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia
+190,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+191,Perempuan,43,Guru,6.7,7,45,4,Overweight,135/90,65,6000,Insomnia
+192,Laki-laki,43,Promotor,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+193,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+194,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+195,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+196,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+197,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+198,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+199,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+200,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+201,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Insomnia
+202,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,Insomnia
+203,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,Insomnia
+204,Laki-laki,43,Insinyur,6.9,6,47,7,Normal Weight,117/76,69,6800,None
+205,Laki-laki,43,Insinyur,7.6,8,75,4,Overweight,122/80,68,6800,None
+206,Laki-laki,43,Insinyur,7.7,8,90,5,Normal,130/85,70,8000,None
+207,Laki-laki,43,Insinyur,7.7,8,90,5,Normal,130/85,70,8000,None
+208,Laki-laki,43,Insinyur,7.7,8,90,5,Normal,130/85,70,8000,None
+209,Laki-laki,43,Insinyur,7.7,8,90,5,Normal,130/85,70,8000,None
+210,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,None
+211,Laki-laki,43,Insinyur,7.7,8,90,5,Normal,130/85,70,8000,None
+212,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,None
+213,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,None
+214,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,None
+215,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,None
+216,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,None
+217,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,None
+218,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,None
+219,Laki-laki,43,Insinyur,7.8,8,90,5,Normal,130/85,70,8000,Sleep Apnea
+220,Laki-laki,43,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,Sleep Apnea
+221,Perempuan,44,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+222,Laki-laki,44,Promotor,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+223,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+224,Laki-laki,44,Promotor,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+225,Perempuan,44,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+226,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+227,Perempuan,44,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+228,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+229,Perempuan,44,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+230,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+231,Perempuan,44,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+232,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+233,Perempuan,44,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+234,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+235,Perempuan,44,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+236,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+237,Laki-laki,44,Promotor,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+238,Perempuan,44,Guru,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+239,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+240,Laki-laki,44,Promotor,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+241,Perempuan,44,Guru,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+242,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+243,Laki-laki,44,Promotor,6.4,6,45,7,Overweight,130/85,72,6000,Insomnia
+244,Perempuan,44,Guru,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+245,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+246,Perempuan,44,Guru,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+247,Laki-laki,44,Promotor,6.3,6,45,7,Overweight,130/85,72,6000,Insomnia
+248,Laki-laki,44,Insinyur,6.8,7,45,7,Overweight,130/85,78,5000,Insomnia
+249,Laki-laki,44,Promotor,6.4,6,45,7,Overweight,130/85,72,6000,None
+250,Laki-laki,44,Promotor,6.5,6,45,7,Overweight,130/85,72,6000,None
+251,Perempuan,45,Guru,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia
+252,Perempuan,45,Guru,6.8,7,30,6,Overweight,135/90,65,6000,Insomnia
+253,Perempuan,45,Guru,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+254,Perempuan,45,Guru,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+255,Perempuan,45,Guru,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+256,Perempuan,45,Guru,6.5,7,45,4,Overweight,135/90,65,6000,Insomnia
+257,Perempuan,45,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+258,Perempuan,45,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+259,Perempuan,45,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+260,Perempuan,45,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+261,Perempuan,45,Guru,6.6,7,45,4,Overweight,135/90,65,6000,Insomnia
+262,Perempuan,45,Guru,6.6,7,45,4,Overweight,135/90,65,6000,None
+263,Perempuan,45,Guru,6.6,7,45,4,Overweight,135/90,65,6000,None
+264,Perempuan,45,Manager,6.9,7,55,5,Overweight,125/82,75,5500,None
+265,Laki-laki,48,Dokter,7.3,7,65,5,Obese,142/92,83,3500,Insomnia
+266,Perempuan,48,Suster,5.9,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+267,Laki-laki,48,Dokter,7.3,7,65,5,Obese,142/92,83,3500,Insomnia
+268,Perempuan,49,Suster,6.2,6,90,8,Overweight,140/95,75,10000,None
+269,Perempuan,49,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+270,Perempuan,49,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+271,Perempuan,49,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+272,Perempuan,49,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+273,Perempuan,49,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+274,Perempuan,49,Suster,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+275,Perempuan,49,Suster,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+276,Perempuan,49,Suster,6.2,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+277,Laki-laki,49,Dokter,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea
+278,Laki-laki,49,Dokter,8.1,9,85,3,Obese,139/91,86,3700,Sleep Apnea
+279,Perempuan,50,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Insomnia
+280,Perempuan,50,Insinyur,8.3,9,30,3,Normal,125/80,65,5000,None
+281,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,None
+282,Perempuan,50,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+283,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+284,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+285,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+286,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+287,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+288,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+289,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+290,Perempuan,50,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+291,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+292,Perempuan,50,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+293,Perempuan,50,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+294,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+295,Perempuan,50,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+296,Perempuan,50,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+297,Perempuan,50,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+298,Perempuan,50,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+299,Perempuan,51,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+300,Perempuan,51,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+301,Perempuan,51,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+302,Perempuan,51,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+303,Perempuan,51,Suster,7.1,7,55,6,Normal Weight,125/82,72,6000,None
+304,Perempuan,51,Suster,6,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+305,Perempuan,51,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+306,Perempuan,51,Suster,6.1,6,90,8,Overweight,140/95,75,10000,Sleep Apnea
+307,Perempuan,52,Akuntan,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia
+308,Perempuan,52,Akuntan,6.5,7,45,7,Overweight,130/85,72,6000,Insomnia
+309,Perempuan,52,Akuntan,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+310,Perempuan,52,Akuntan,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+311,Perempuan,52,Akuntan,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+312,Perempuan,52,Akuntan,6.6,7,45,7,Overweight,130/85,72,6000,Insomnia
+313,Perempuan,52,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+314,Perempuan,52,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+315,Perempuan,52,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+316,Perempuan,53,Insinyur,8.3,9,30,3,Normal,125/80,65,5000,Insomnia
+317,Perempuan,53,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+318,Perempuan,53,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+319,Perempuan,53,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+320,Perempuan,53,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+321,Perempuan,53,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+322,Perempuan,53,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+323,Perempuan,53,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+324,Perempuan,53,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+325,Perempuan,53,Insinyur,8.3,9,30,3,Normal,125/80,65,5000,None
+326,Perempuan,53,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+327,Perempuan,53,Insinyur,8.3,9,30,3,Normal,125/80,65,5000,None
+328,Perempuan,53,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+329,Perempuan,53,Insinyur,8.3,9,30,3,Normal,125/80,65,5000,None
+330,Perempuan,53,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+331,Perempuan,53,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+332,Perempuan,53,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+333,Perempuan,54,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+334,Perempuan,54,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+335,Perempuan,54,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+336,Perempuan,54,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+337,Perempuan,54,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+338,Perempuan,54,Insinyur,8.4,9,30,3,Normal,125/80,65,5000,None
+339,Perempuan,54,Insinyur,8.5,9,30,3,Normal,125/80,65,5000,None
+340,Perempuan,55,Suster,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea
+341,Perempuan,55,Suster,8.1,9,75,4,Overweight,140/95,72,5000,Sleep Apnea
+342,Perempuan,56,Dokter,8.2,9,90,3,Normal Weight,118/75,65,10000,None
+343,Perempuan,56,Dokter,8.2,9,90,3,Normal Weight,118/75,65,10000,None
+344,Perempuan,57,Suster,8.1,9,75,3,Overweight,140/95,68,7000,None
+345,Perempuan,57,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+346,Perempuan,57,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+347,Perempuan,57,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+348,Perempuan,57,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+349,Perempuan,57,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+350,Perempuan,57,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+351,Perempuan,57,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+352,Perempuan,57,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+353,Perempuan,58,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+354,Perempuan,58,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+355,Perempuan,58,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+356,Perempuan,58,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+357,Perempuan,58,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+358,Perempuan,58,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+359,Perempuan,59,Suster,8,9,75,3,Overweight,140/95,68,7000,None
+360,Perempuan,59,Suster,8.1,9,75,3,Overweight,140/95,68,7000,None
+361,Perempuan,59,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+362,Perempuan,59,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+363,Perempuan,59,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+364,Perempuan,59,Suster,8.2,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+365,Perempuan,59,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+366,Perempuan,59,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+367,Perempuan,59,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+368,Perempuan,59,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+369,Perempuan,59,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+370,Perempuan,59,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+371,Perempuan,59,Suster,8,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+372,Perempuan,59,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+373,Perempuan,59,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
+374,Perempuan,59,Suster,8.1,9,75,3,Overweight,140/95,68,7000,Sleep Apnea
